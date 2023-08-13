@@ -1,0 +1,108 @@
+C:\Users\GGG\source\repos\AutoBot 2.0\obj\Debug\AutoBot 2.0.csproj.AssemblyReference.cache
+C:\Users\GGG\source\repos\AutoBot 2.0\obj\Debug\ColorPicker.g.cs
+C:\Users\GGG\source\repos\AutoBot 2.0\obj\Debug\Connection.g.cs
+C:\Users\GGG\source\repos\AutoBot 2.0\obj\Debug\ConnectionPoint.g.cs
+C:\Users\GGG\source\repos\AutoBot 2.0\obj\Debug\CursorData.g.cs
+C:\Users\GGG\source\repos\AutoBot 2.0\obj\Debug\MainWindow.g.cs
+C:\Users\GGG\source\repos\AutoBot 2.0\obj\Debug\NewClass\BlockControl.g.cs
+C:\Users\GGG\source\repos\AutoBot 2.0\obj\Debug\NumericUpDown.g.cs
+C:\Users\GGG\source\repos\AutoBot 2.0\obj\Debug\Themes\TreeGrid.g.cs
+C:\Users\GGG\source\repos\AutoBot 2.0\obj\Debug\Tree.g.cs
+C:\Users\GGG\source\repos\AutoBot 2.0\obj\Debug\Watermark.g.cs
+C:\Users\GGG\source\repos\AutoBot 2.0\obj\Debug\Window2.g.cs
+C:\Users\GGG\source\repos\AutoBot 2.0\obj\Debug\App.g.cs
+C:\Users\GGG\source\repos\AutoBot 2.0\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\GGG\source\repos\AutoBot 2.0\obj\Debug\AutoBot 2.0_MarkupCompile.cache
+C:\Users\GGG\source\repos\AutoBot 2.0\obj\Debug\AutoBot 2.0_MarkupCompile.lref
+C:\Users\GGG\source\repos\AutoBot 2.0\bin\Debug\AutoBot 2.0.exe.config
+C:\Users\GGG\source\repos\AutoBot 2.0\bin\Debug\AutoBot 2.0.exe
+C:\Users\GGG\source\repos\AutoBot 2.0\bin\Debug\AutoBot 2.0.pdb
+C:\Users\GGG\source\repos\AutoBot 2.0\obj\Debug\ColorPicker.baml
+C:\Users\GGG\source\repos\AutoBot 2.0\obj\Debug\Connection.baml
+C:\Users\GGG\source\repos\AutoBot 2.0\obj\Debug\ConnectionPoint.baml
+C:\Users\GGG\source\repos\AutoBot 2.0\obj\Debug\CursorData.baml
+C:\Users\GGG\source\repos\AutoBot 2.0\obj\Debug\MainWindow.baml
+C:\Users\GGG\source\repos\AutoBot 2.0\obj\Debug\NewClass\BlockControl.baml
+C:\Users\GGG\source\repos\AutoBot 2.0\obj\Debug\NumericUpDown.baml
+C:\Users\GGG\source\repos\AutoBot 2.0\obj\Debug\Themes\TreeGrid.baml
+C:\Users\GGG\source\repos\AutoBot 2.0\obj\Debug\Tree.baml
+C:\Users\GGG\source\repos\AutoBot 2.0\obj\Debug\Watermark.baml
+C:\Users\GGG\source\repos\AutoBot 2.0\obj\Debug\Window2.baml
+C:\Users\GGG\source\repos\AutoBot 2.0\obj\Debug\AutoBot 2.0.g.resources
+C:\Users\GGG\source\repos\AutoBot 2.0\obj\Debug\AutoBot_2._0.Properties.Resources.resources
+C:\Users\GGG\source\repos\AutoBot 2.0\obj\Debug\AutoBot 2.0.csproj.GenerateResource.cache
+C:\Users\GGG\source\repos\AutoBot 2.0\obj\Debug\AutoBot 2.0.csproj.CoreCompileInputs.cache
+C:\Users\GGG\source\repos\AutoBot 2.0\obj\Debug\AutoBot 2.0.exe
+C:\Users\GGG\source\repos\AutoBot 2.0\obj\Debug\AutoBot 2.0.pdb
+C:\Users\GGG\Desktop\BotEngine\AutoBot 2.0\bin\Debug\AutoBot 2.0.exe.config
+C:\Users\GGG\Desktop\BotEngine\AutoBot 2.0\bin\Debug\AutoBot 2.0.exe
+C:\Users\GGG\Desktop\BotEngine\AutoBot 2.0\bin\Debug\AutoBot 2.0.pdb
+C:\Users\GGG\Desktop\BotEngine\AutoBot 2.0\obj\Debug\AutoBot 2.0.csproj.AssemblyReference.cache
+C:\Users\GGG\Desktop\BotEngine\AutoBot 2.0\obj\Debug\Connection.g.cs
+C:\Users\GGG\Desktop\BotEngine\AutoBot 2.0\obj\Debug\ConnectionPoint.g.cs
+C:\Users\GGG\Desktop\BotEngine\AutoBot 2.0\obj\Debug\CursorData.g.cs
+C:\Users\GGG\Desktop\BotEngine\AutoBot 2.0\obj\Debug\MainWindow.g.cs
+C:\Users\GGG\Desktop\BotEngine\AutoBot 2.0\obj\Debug\NewClass\BlockControl.g.cs
+C:\Users\GGG\Desktop\BotEngine\AutoBot 2.0\obj\Debug\NumericUpDown.g.cs
+C:\Users\GGG\Desktop\BotEngine\AutoBot 2.0\obj\Debug\Themes\TreeGrid.g.cs
+C:\Users\GGG\Desktop\BotEngine\AutoBot 2.0\obj\Debug\Watermark.g.cs
+C:\Users\GGG\Desktop\BotEngine\AutoBot 2.0\obj\Debug\Window2.g.cs
+C:\Users\GGG\Desktop\BotEngine\AutoBot 2.0\obj\Debug\App.g.cs
+C:\Users\GGG\Desktop\BotEngine\AutoBot 2.0\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\GGG\Desktop\BotEngine\AutoBot 2.0\obj\Debug\AutoBot 2.0_MarkupCompile.cache
+C:\Users\GGG\Desktop\BotEngine\AutoBot 2.0\obj\Debug\AutoBot 2.0_MarkupCompile.lref
+C:\Users\GGG\Desktop\BotEngine\AutoBot 2.0\obj\Debug\Connection.baml
+C:\Users\GGG\Desktop\BotEngine\AutoBot 2.0\obj\Debug\ConnectionPoint.baml
+C:\Users\GGG\Desktop\BotEngine\AutoBot 2.0\obj\Debug\CursorData.baml
+C:\Users\GGG\Desktop\BotEngine\AutoBot 2.0\obj\Debug\MainWindow.baml
+C:\Users\GGG\Desktop\BotEngine\AutoBot 2.0\obj\Debug\NewClass\BlockControl.baml
+C:\Users\GGG\Desktop\BotEngine\AutoBot 2.0\obj\Debug\NumericUpDown.baml
+C:\Users\GGG\Desktop\BotEngine\AutoBot 2.0\obj\Debug\Themes\TreeGrid.baml
+C:\Users\GGG\Desktop\BotEngine\AutoBot 2.0\obj\Debug\Watermark.baml
+C:\Users\GGG\Desktop\BotEngine\AutoBot 2.0\obj\Debug\Window2.baml
+C:\Users\GGG\Desktop\BotEngine\AutoBot 2.0\obj\Debug\AutoBot 2.0.g.resources
+C:\Users\GGG\Desktop\BotEngine\AutoBot 2.0\obj\Debug\AutoBot_2._0.Properties.Resources.resources
+C:\Users\GGG\Desktop\BotEngine\AutoBot 2.0\obj\Debug\AutoBot 2.0.csproj.GenerateResource.cache
+C:\Users\GGG\Desktop\BotEngine\AutoBot 2.0\obj\Debug\AutoBot 2.0.csproj.CoreCompileInputs.cache
+C:\Users\GGG\Desktop\BotEngine\AutoBot 2.0\obj\Debug\AutoBot 2.0.exe
+C:\Users\GGG\Desktop\BotEngine\AutoBot 2.0\obj\Debug\AutoBot 2.0.pdb
+C:\Users\GGG\Desktop\BotEngine\AutoBot 2.0\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\GGG\Desktop\BotEngine\AutoBot 2.0\obj\Debug\AutoBot 2.0.csproj.CopyComplete
+C:\Users\GGG\Desktop\BotEngine\AutoBot 2.0\bin\Debug\Newtonsoft.Json.dll
+C:\Users\GGG\Desktop\BotEngine\AutoBot 2.0\obj\Debug\AutoBot 2.0.csproj.SuggestedBindingRedirects.cache
+E:\Users\GGG\Desktop\BotEngine\AutoBot 2.0\bin\Debug\AutoBot 2.0.exe.config
+E:\Users\GGG\Desktop\BotEngine\AutoBot 2.0\bin\Debug\AutoBot 2.0.exe
+E:\Users\GGG\Desktop\BotEngine\AutoBot 2.0\bin\Debug\AutoBot 2.0.pdb
+E:\Users\GGG\Desktop\BotEngine\AutoBot 2.0\bin\Debug\Newtonsoft.Json.dll
+E:\Users\GGG\Desktop\BotEngine\AutoBot 2.0\bin\Debug\System.Numerics.Vectors.dll
+E:\Users\GGG\Desktop\BotEngine\AutoBot 2.0\obj\Debug\AutoBot 2.0.csproj.AssemblyReference.cache
+E:\Users\GGG\Desktop\BotEngine\AutoBot 2.0\obj\Debug\AutoBot 2.0.csproj.SuggestedBindingRedirects.cache
+E:\Users\GGG\Desktop\BotEngine\AutoBot 2.0\obj\Debug\Connection.g.cs
+E:\Users\GGG\Desktop\BotEngine\AutoBot 2.0\obj\Debug\ConnectionPoint.g.cs
+E:\Users\GGG\Desktop\BotEngine\AutoBot 2.0\obj\Debug\CursorData.g.cs
+E:\Users\GGG\Desktop\BotEngine\AutoBot 2.0\obj\Debug\MainWindow.g.cs
+E:\Users\GGG\Desktop\BotEngine\AutoBot 2.0\obj\Debug\NewClass\BlockControl.g.cs
+E:\Users\GGG\Desktop\BotEngine\AutoBot 2.0\obj\Debug\NumericUpDown.g.cs
+E:\Users\GGG\Desktop\BotEngine\AutoBot 2.0\obj\Debug\Themes\TreeGrid.g.cs
+E:\Users\GGG\Desktop\BotEngine\AutoBot 2.0\obj\Debug\Watermark.g.cs
+E:\Users\GGG\Desktop\BotEngine\AutoBot 2.0\obj\Debug\Window2.g.cs
+E:\Users\GGG\Desktop\BotEngine\AutoBot 2.0\obj\Debug\App.g.cs
+E:\Users\GGG\Desktop\BotEngine\AutoBot 2.0\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Users\GGG\Desktop\BotEngine\AutoBot 2.0\obj\Debug\AutoBot 2.0_MarkupCompile.cache
+E:\Users\GGG\Desktop\BotEngine\AutoBot 2.0\obj\Debug\AutoBot 2.0_MarkupCompile.lref
+E:\Users\GGG\Desktop\BotEngine\AutoBot 2.0\obj\Debug\Connection.baml
+E:\Users\GGG\Desktop\BotEngine\AutoBot 2.0\obj\Debug\ConnectionPoint.baml
+E:\Users\GGG\Desktop\BotEngine\AutoBot 2.0\obj\Debug\CursorData.baml
+E:\Users\GGG\Desktop\BotEngine\AutoBot 2.0\obj\Debug\MainWindow.baml
+E:\Users\GGG\Desktop\BotEngine\AutoBot 2.0\obj\Debug\NewClass\BlockControl.baml
+E:\Users\GGG\Desktop\BotEngine\AutoBot 2.0\obj\Debug\NumericUpDown.baml
+E:\Users\GGG\Desktop\BotEngine\AutoBot 2.0\obj\Debug\Themes\TreeGrid.baml
+E:\Users\GGG\Desktop\BotEngine\AutoBot 2.0\obj\Debug\Watermark.baml
+E:\Users\GGG\Desktop\BotEngine\AutoBot 2.0\obj\Debug\Window2.baml
+E:\Users\GGG\Desktop\BotEngine\AutoBot 2.0\obj\Debug\AutoBot 2.0.g.resources
+E:\Users\GGG\Desktop\BotEngine\AutoBot 2.0\obj\Debug\AutoBot_2._0.Properties.Resources.resources
+E:\Users\GGG\Desktop\BotEngine\AutoBot 2.0\obj\Debug\AutoBot 2.0.csproj.GenerateResource.cache
+E:\Users\GGG\Desktop\BotEngine\AutoBot 2.0\obj\Debug\AutoBot 2.0.csproj.CoreCompileInputs.cache
+E:\Users\GGG\Desktop\BotEngine\AutoBot 2.0\obj\Debug\AutoBot 2.0.csproj.CopyComplete
+E:\Users\GGG\Desktop\BotEngine\AutoBot 2.0\obj\Debug\AutoBot 2.0.exe
+E:\Users\GGG\Desktop\BotEngine\AutoBot 2.0\obj\Debug\AutoBot 2.0.pdb

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BotData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <BotElement>
+    <Id>0</Id>
+    <Poisition>
+      <X>0</X>
+      <Y>0</Y>
+    </Poisition>
+    <Times>0</Times>
+    <IsDelay>true</IsDelay>
+    <CPDatas>
+      <CPData>
+        <CIO>Input</CIO>
+        <CArray>No</CArray>
+        <CType>Var</CType>
+        <Id>1</Id>
+        <BlockId>0</BlockId>
+        <Title />
+        <IsInfinite>true</IsInfinite>
+      </CPData>
+      <CPData>
+        <CIO>Output</CIO>
+        <CArray>No</CArray>
+        <CType>Var</CType>
+        <Id>3</Id>
+        <BlockId>0</BlockId>
+        <Title />
+        <IsInfinite>true</IsInfinite>
+      </CPData>
+      <CPData>
+        <CIO>Output</CIO>
+        <CArray>No</CArray>
+        <CType>Var</CType>
+        <Id>2</Id>
+        <BlockId>0</BlockId>
+        <Title />
+        <IsInfinite>true</IsInfinite>
+      </CPData>
+    </CPDatas>
+    <DelayAt>500000</DelayAt>
+    <DelayTo>1200000</DelayTo>
+  </BotElement>
+  <MOpenBOT>
+    <Id>1</Id>
+    <Poisition>
+      <X>209.40666666666664</X>
+      <Y>35.900000000000006</Y>
+    </Poisition>
+    <Type>OpenBot</Type>
+    <Name>OpenBot1</Name>
+    <Times>1</Times>
+    <IsDelay>true</IsDelay>
+    <CPDatas>
+      <CPData>
+        <CIO>Output</CIO>
+        <CArray>No</CArray>
+        <CType>Next</CType>
+        <Id>3</Id>
+        <BlockId>1</BlockId>
+        <Title />
+        <IsInfinite>false</IsInfinite>
+      </CPData>
+      <CPData>
+        <CIO>Input</CIO>
+        <CArray>No</CArray>
+        <CType>Next</CType>
+        <Id>4</Id>
+        <BlockId>1</BlockId>
+        <Title />
+        <IsInfinite>false</IsInfinite>
+      </CPData>
+    </CPDatas>
+    <DelayAt>500000</DelayAt>
+    <DelayTo>1200000</DelayTo>
+    <SubCP>
+      <ValueTupleOfInt32StringInt32>
+        <Item1>2</Item1>
+        <Item2>OpenBot</Item2>
+        <Item3>6</Item3>
+      </ValueTupleOfInt32StringInt32>
+      <ValueTupleOfInt32StringInt32>
+        <Item1>1</Item1>
+        <Item2>OpenBot</Item2>
+        <Item3>5</Item3>
+      </ValueTupleOfInt32StringInt32>
+    </SubCP>
+    <lastBlockIdResult>0</lastBlockIdResult>
+    <Source>C:\Users\GGG\Desktop\BotEngine\AutoBot 2.0\bin\Debug\d2Bug.xml</Source>
+  </MOpenBOT>
+  <CDatas>
+    <CData>
+      <Id1>4</Id1>
+      <BlockId1>1</BlockId1>
+      <Id2>3</Id2>
+      <BlockId2>0</BlockId2>
+    </CData>
+  </CDatas>
+  <Name />
+  <IsLocked>false</IsLocked>
+</BotData>

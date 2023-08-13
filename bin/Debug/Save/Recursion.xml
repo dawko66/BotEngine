@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BotData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <BotElement>
+    <Id>0</Id>
+    <Poisition>
+      <X>0</X>
+      <Y>0</Y>
+    </Poisition>
+    <Times>0</Times>
+    <IsDelay>true</IsDelay>
+    <Delay>
+      <TimeSpan />
+      <TimeSpan />
+    </Delay>
+    <CPDatas>
+      <CPData>
+        <CIO>Input</CIO>
+        <CArray>No</CArray>
+        <CType>Var</CType>
+        <Id>3</Id>
+        <BlockId>0</BlockId>
+        <Title />
+        <IsInfinite>true</IsInfinite>
+      </CPData>
+      <CPData>
+        <CIO>Input</CIO>
+        <CArray>No</CArray>
+        <CType>Var</CType>
+        <Id>1</Id>
+        <BlockId>0</BlockId>
+        <Title />
+        <IsInfinite>true</IsInfinite>
+      </CPData>
+      <CPData>
+        <CIO>Output</CIO>
+        <CArray>No</CArray>
+        <CType>Var</CType>
+        <Id>4</Id>
+        <BlockId>0</BlockId>
+        <Title />
+        <IsInfinite>true</IsInfinite>
+      </CPData>
+      <CPData>
+        <CIO>Output</CIO>
+        <CArray>No</CArray>
+        <CType>Var</CType>
+        <Id>2</Id>
+        <BlockId>0</BlockId>
+        <Title />
+        <IsInfinite>true</IsInfinite>
+      </CPData>
+    </CPDatas>
+  </BotElement>
+  <MOpenBOT>
+    <Id>1</Id>
+    <Poisition>
+      <X>350</X>
+      <Y>198</Y>
+    </Poisition>
+    <Type>OpenBot</Type>
+    <Name>OpenBot1</Name>
+    <Times>0</Times>
+    <IsDelay>true</IsDelay>
+    <Delay>
+      <TimeSpan />
+      <TimeSpan />
+    </Delay>
+    <CPDatas>
+      <CPData>
+        <CIO>Output</CIO>
+        <CArray>No</CArray>
+        <CType>Next</CType>
+        <Id>3</Id>
+        <BlockId>1</BlockId>
+        <Title />
+        <IsInfinite>false</IsInfinite>
+      </CPData>
+      <CPData>
+        <CIO>Input</CIO>
+        <CArray>No</CArray>
+        <CType>Next</CType>
+        <Id>4</Id>
+        <BlockId>1</BlockId>
+        <Title />
+        <IsInfinite>false</IsInfinite>
+      </CPData>
+    </CPDatas>
+    <Variables />
+    <Source>C:\Users\GGG\Desktop\BotEngine\AutoBot 2.0\bin\Debug\Recursion.xml</Source>
+  </MOpenBOT>
+  <CDatas>
+    <CData>
+      <Id1>3</Id1>
+      <BlockId1>0</BlockId1>
+      <Id2>3</Id2>
+      <BlockId2>1</BlockId2>
+    </CData>
+    <CData>
+      <Id1>4</Id1>
+      <BlockId1>1</BlockId1>
+      <Id2>4</Id2>
+      <BlockId2>0</BlockId2>
+    </CData>
+  </CDatas>
+</BotData>

@@ -1,0 +1,71 @@
+﻿<UserControl x:Class="AutoBot_v1._1.CursorData"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:AutoBot_v1._1"
+             mc:Ignorable="d" >
+    <DataGrid Name="dataGrid" IsReadOnly="True" Grid.Row="1" Grid.ColumnSpan="3" >
+        <DataGrid.Columns>
+
+            <DataGridTemplateColumn>
+                <DataGridTemplateColumn.CellTemplate>
+                    <DataTemplate>
+                        <RadioButton IsChecked="{Binding Path=Selector, UpdateSourceTrigger=PropertyChanged}" VerticalContentAlignment="Center" Margin="5" />
+                    </DataTemplate>
+                </DataGridTemplateColumn.CellTemplate>
+            </DataGridTemplateColumn>
+
+            <DataGridTemplateColumn >
+                <DataGridTemplateColumn.Header>
+                    <Label Name="dataPosition" Content="Position" VerticalContentAlignment="Center"/>
+                </DataGridTemplateColumn.Header>
+                <DataGridTemplateColumn.CellTemplate>
+                    <DataTemplate>
+                        <Grid>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition/>
+                                <ColumnDefinition/>
+                            </Grid.ColumnDefinitions>
+
+                            <TextBox Text="{Binding Path=PositionX, UpdateSourceTrigger=PropertyChanged}" Width="45" Margin="5" Grid.Column="1" MaxLength="5" />
+                            <TextBox Text="{Binding Path=PositionY, UpdateSourceTrigger=PropertyChanged}" Width="45" Margin="5" Grid.Column="2" MaxLength="5" />
+                        </Grid>
+                    </DataTemplate>
+                </DataGridTemplateColumn.CellTemplate>
+            </DataGridTemplateColumn>
+
+            <DataGridTemplateColumn>
+                <DataGridTemplateColumn.Header>
+                    <Label Name="dataColorCheckBox" Content="Color" VerticalContentAlignment="Center" />
+                </DataGridTemplateColumn.Header>
+                <DataGridTemplateColumn.CellTemplate>
+                    <DataTemplate>
+                        <Grid>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="Auto"/>
+                                <ColumnDefinition MinWidth="100"/>
+                                <ColumnDefinition MinWidth="30"/>
+                            </Grid.ColumnDefinitions>
+                            
+                            <TextBox Text="{Binding Path=Color, UpdateSourceTrigger=PropertyChanged}" Width="92" Margin="5" MaxLength="7" Grid.Column="1" />
+                            <Rectangle Fill="{Binding Path=Color}" Stroke="Black" Margin="0,5,5,5" Grid.Column="2"/>
+                        </Grid>
+                    </DataTemplate>
+                </DataGridTemplateColumn.CellTemplate>
+            </DataGridTemplateColumn>
+
+            <DataGridTemplateColumn>
+                <DataGridTemplateColumn.Header>
+                    <Button Name="dataShow" Content="Show" VerticalContentAlignment="Center" />
+                </DataGridTemplateColumn.Header>
+                <DataGridTemplateColumn.CellTemplate>
+                    <DataTemplate>
+                        <CheckBox IsChecked="{Binding Path=ShowPosition, UpdateSourceTrigger=PropertyChanged}" VerticalContentAlignment="Center" />
+                    </DataTemplate>
+                </DataGridTemplateColumn.CellTemplate>
+            </DataGridTemplateColumn>
+
+        </DataGrid.Columns>
+    </DataGrid>
+</UserControl>

@@ -1,0 +1,23 @@
+Bonesnap 221ed
+Arreat face 186ed 5ll
+Arreat face 184ed 5ll
+LOH gloves
+Tal Rash mask 108def
+Tal Rash mask 127def
+2x Heart Carver 194ed | 191ed
+suicide branch
+gerke's sanctuary 193ed/28ar/11dr/16mdr
+string of ears 6ll/168ed/15dr/14/mdr
+Frostburn 17ed
+Raven Frost 201ar/20dex
+dwarf star
+Manald Heal 7Ml/8rl
+Manald Heal 5Ml/7rl
+Tearhaunch 80ed
+
+Charms:
+Pala Combat / 2 MaxDamage
+Barab Masteries / 6 Strength
+Necro (Poison and bone)
+Necro Summoning / 27 life
+
