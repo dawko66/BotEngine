@@ -106,3 +106,39 @@ E:\Users\GGG\Desktop\BotEngine\AutoBot 2.0\obj\Debug\AutoBot 2.0.csproj.CoreComp
 E:\Users\GGG\Desktop\BotEngine\AutoBot 2.0\obj\Debug\AutoBot 2.0.csproj.CopyComplete
 E:\Users\GGG\Desktop\BotEngine\AutoBot 2.0\obj\Debug\AutoBot 2.0.exe
 E:\Users\GGG\Desktop\BotEngine\AutoBot 2.0\obj\Debug\AutoBot 2.0.pdb
+C:\Users\dawid\OneDrive\Pulpit\BotEngine\bin\Debug\AutoBot 2.0.exe.config
+C:\Users\dawid\OneDrive\Pulpit\BotEngine\bin\Debug\AutoBot 2.0.exe
+C:\Users\dawid\OneDrive\Pulpit\BotEngine\bin\Debug\AutoBot 2.0.pdb
+C:\Users\dawid\OneDrive\Pulpit\BotEngine\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dawid\OneDrive\Pulpit\BotEngine\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\dawid\OneDrive\Pulpit\BotEngine\obj\Debug\AutoBot 2.0.csproj.AssemblyReference.cache
+C:\Users\dawid\OneDrive\Pulpit\BotEngine\obj\Debug\AutoBot 2.0.csproj.SuggestedBindingRedirects.cache
+C:\Users\dawid\OneDrive\Pulpit\BotEngine\obj\Debug\Connection.g.cs
+C:\Users\dawid\OneDrive\Pulpit\BotEngine\obj\Debug\ConnectionPoint.g.cs
+C:\Users\dawid\OneDrive\Pulpit\BotEngine\obj\Debug\CursorData.g.cs
+C:\Users\dawid\OneDrive\Pulpit\BotEngine\obj\Debug\MainWindow.g.cs
+C:\Users\dawid\OneDrive\Pulpit\BotEngine\obj\Debug\NewClass\BlockControl.g.cs
+C:\Users\dawid\OneDrive\Pulpit\BotEngine\obj\Debug\NumericUpDown.g.cs
+C:\Users\dawid\OneDrive\Pulpit\BotEngine\obj\Debug\Themes\TreeGrid.g.cs
+C:\Users\dawid\OneDrive\Pulpit\BotEngine\obj\Debug\Watermark.g.cs
+C:\Users\dawid\OneDrive\Pulpit\BotEngine\obj\Debug\Window2.g.cs
+C:\Users\dawid\OneDrive\Pulpit\BotEngine\obj\Debug\App.g.cs
+C:\Users\dawid\OneDrive\Pulpit\BotEngine\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\dawid\OneDrive\Pulpit\BotEngine\obj\Debug\AutoBot 2.0_MarkupCompile.cache
+C:\Users\dawid\OneDrive\Pulpit\BotEngine\obj\Debug\AutoBot 2.0_MarkupCompile.lref
+C:\Users\dawid\OneDrive\Pulpit\BotEngine\obj\Debug\Connection.baml
+C:\Users\dawid\OneDrive\Pulpit\BotEngine\obj\Debug\ConnectionPoint.baml
+C:\Users\dawid\OneDrive\Pulpit\BotEngine\obj\Debug\CursorData.baml
+C:\Users\dawid\OneDrive\Pulpit\BotEngine\obj\Debug\MainWindow.baml
+C:\Users\dawid\OneDrive\Pulpit\BotEngine\obj\Debug\NewClass\BlockControl.baml
+C:\Users\dawid\OneDrive\Pulpit\BotEngine\obj\Debug\NumericUpDown.baml
+C:\Users\dawid\OneDrive\Pulpit\BotEngine\obj\Debug\Themes\TreeGrid.baml
+C:\Users\dawid\OneDrive\Pulpit\BotEngine\obj\Debug\Watermark.baml
+C:\Users\dawid\OneDrive\Pulpit\BotEngine\obj\Debug\Window2.baml
+C:\Users\dawid\OneDrive\Pulpit\BotEngine\obj\Debug\AutoBot 2.0.g.resources
+C:\Users\dawid\OneDrive\Pulpit\BotEngine\obj\Debug\AutoBot_2._0.Properties.Resources.resources
+C:\Users\dawid\OneDrive\Pulpit\BotEngine\obj\Debug\AutoBot 2.0.csproj.GenerateResource.cache
+C:\Users\dawid\OneDrive\Pulpit\BotEngine\obj\Debug\AutoBot 2.0.csproj.CoreCompileInputs.cache
+C:\Users\dawid\OneDrive\Pulpit\BotEngine\obj\Debug\AutoBot 2.0.csproj.CopyComplete
+C:\Users\dawid\OneDrive\Pulpit\BotEngine\obj\Debug\AutoBot 2.0.exe
+C:\Users\dawid\OneDrive\Pulpit\BotEngine\obj\Debug\AutoBot 2.0.pdb

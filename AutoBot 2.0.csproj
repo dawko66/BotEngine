@@ -88,7 +88,6 @@
     <Compile Include="Class\Different\HotKeys.cs" />
     <Compile Include="Class\Different\LowLevelKeyboardListener.cs" />
     <Compile Include="Class\Different\MouseMovedEvent.cs" />
-    <Compile Include="Class\Diffrent\NumericTextBox.cs" />
     <Compile Include="Class\Graph\Block.cs" />
     <Compile Include="Class\Graph\ColorPicker.cs" />
     <Compile Include="Class\Graph\Compiler.cs" />
