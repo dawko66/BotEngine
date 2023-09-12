@@ -174,6 +174,8 @@ public class MKey : BotElement
 	{
 		byte keyCode = Convert.ToByte(o.KeyCode);
 
+		// add scan codes ~~!!!~~
+
 		for (int i = 0; i < o.Times; i++)
 		{
 			switch (o.KeyState)
@@ -204,8 +206,13 @@ public class MKey : BotElement
 	{
 		return Enum.GetName(typeof(Keys), keyCode);
 	}
-	
-	public string keyCodeToString()
+
+    public static string keyScanCodeToString(int keyCode)
+    {
+        return Enum.GetName(typeof(ScanCode), keyCode);
+    }
+
+    public string keyCodeToString()
 	{
 		return keyCodeToString(KeyCode);
 	}

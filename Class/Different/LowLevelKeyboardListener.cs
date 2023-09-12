@@ -57,6 +57,12 @@ public class LowLevelKeyboardListener
         {
             int vkCode = Marshal.ReadInt32(lParam);
             OnKeyPressed(this, new KeyPressedArgs((Key)vkCode));
+            int scanCode = (int)(Marshal.ReadInt64(lParam) >> 32);
+            AutoBot_2._0.Class.Graph.Console.AddMessage(
+                "vkCode: " + vkCode.ToString() + "(" + vkCode.ToString("X") + ") " + MKey.keyCodeToString(vkCode) +
+                " | ScanCode: " + scanCode.ToString() + "(" + scanCode.ToString("X") + ") " + MKey.keyScanCodeToString(scanCode) +
+                " | Same name: " + (MKey.keyCodeToString(vkCode) == MKey.keyScanCodeToString(scanCode)).ToString()
+                );
         }
 
         return CallNextHookEx(_hookID, nCode, wParam, lParam);

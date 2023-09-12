@@ -10,11 +10,11 @@ none
 false
 DEBUG;TRACE
 C:\Users\dawid\OneDrive\Pulpit\BotEngine\App.xaml
-9-2050534171
+9-1114229493
 
-60-536183570
+60-1393518652
 17-809833309
-Connection.xaml;ConnectionPoint.xaml;CursorData.xaml;MainWindow.xaml;NewClass\BlockControl.xaml;NumericUpDown.xaml;Themes\TreeGrid.xaml;Watermark.xaml;Window2.xaml;
+Class\Components\Connection.xaml;Class\Components\ConnectionPoint.xaml;Class\Components\CursorData.xaml;TestWindow.xaml;Class\Components\BlockControl.xaml;Class\Components\NumericUpDown.xaml;Class\Components\TreeGrid.xaml;Class\Components\Watermark.xaml;MainWindow.xaml;
 
 True
 

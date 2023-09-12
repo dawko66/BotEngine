@@ -3,8 +3,9 @@ using System.Runtime.InteropServices;
 using System.Windows;
 using System.Windows.Interop;
 using System.Windows.Input;
-using static MCursor;
 using System.Collections.Generic;
+using System.Windows.Forms;
+using AutoBot_2._0.Class.Graph;
 
 public class HotKeys
 {
@@ -85,11 +86,24 @@ public class HotKeys
             RegisterHotKey(windowHandle, i, hotKeys[i].ModifierKey, hotKeys[i].Key);
     }
 
+    private const int WH_KEYBOARD_LL = 13;
+    private const int WM_KEYDOWN = 0x0100;
+    private const int WM_SYSKEYDOWN = 0x0104;
 
     private IntPtr HwndHook(IntPtr hwnd, int msg, IntPtr wParam, IntPtr lParam, ref bool handled)
     {
-        if (msg == 256)
+
+        #region ~~!!!~~ scan code check here (in work)
+        if (msg == 256) // control key
         {
+
+        }
+
+
+        if (msg == 0x0312)
+        {
+            AutoBot_2._0.Class.Graph.Console.AddMessage(msg.ToString());
+
 
         }
 
@@ -101,6 +115,8 @@ public class HotKeys
 
             }
         }
+        #endregion
+
         /* Key actions */
         if (msg == 0x0312)
             for (int i = 0; i < hotKeys.Length; i++)
