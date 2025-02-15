@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Diagnostics;
+using System.IO;
 using System.Runtime.InteropServices;
 using System.Windows.Input;
 
@@ -58,12 +59,24 @@ public class LowLevelKeyboardListener
             int vkCode = Marshal.ReadInt32(lParam);
             OnKeyPressed(this, new KeyPressedArgs((Key)vkCode));
             int scanCode = (int)(Marshal.ReadInt64(lParam) >> 32);
+
+
+            using (StreamWriter writer = new StreamWriter("ScanCode.txt", true))
+            {
+                // Write the content to the file
+                writer.WriteLine(MKey.keyCodeToString(vkCode) + " = " + (Marshal.ReadInt64(lParam) >> 32).ToString("X") + ",");
+            }
+
+
             AutoBot_2._0.Class.Graph.Console.AddMessage(
-                "vkCode: " + vkCode.ToString() + "(" + vkCode.ToString("X") + ") " + MKey.keyCodeToString(vkCode) +
-                " | ScanCode: " + scanCode.ToString() + "(" + scanCode.ToString("X") + ") " + MKey.keyScanCodeToString(scanCode) +
-                " | Same name: " + (MKey.keyCodeToString(vkCode) == MKey.keyScanCodeToString(scanCode)).ToString()
+                Marshal.ReadInt32(lParam + 8).ToString("X8") + " | " +
+                Marshal.ReadInt32(lParam + 4).ToString("X8") + " | " +
+                Marshal.ReadInt32(lParam + 0).ToString("X8") + " | " +
+                MKey.keyCodeToString(vkCode)
                 );
+                
         }
+        
 
         return CallNextHookEx(_hookID, nCode, wParam, lParam);
     }

@@ -76,7 +76,7 @@ public class MKey : BotElement
         Oem4 = 0x1A,
         Oem6 = 0x1B,
         Enter = 0x1C,
-        Control = 0x1D,
+        Control = 0x1D, //LCtrl
 		A = 0x1E,
 		S = 0x1F,
 		D = 0x20,
@@ -168,7 +168,7 @@ public class MKey : BotElement
 	}
 
 	[DllImport("user32.dll", CharSet = CharSet.Auto, CallingConvention = CallingConvention.StdCall)]
-	protected internal static extern void keybd_event(byte bVk, byte bScan, uint dwFlags, int dwExtraInfo);
+	protected internal static extern void keybd_event(byte bVk, int bScan, uint dwFlags, int dwExtraInfo);
 	
 	public static void BotAction(MKey o)
 	{
@@ -186,9 +186,9 @@ public class MKey : BotElement
                 //case 1: keybd_event(keyCode, 0x45, 0x1 | 0x2, 0); break;  // Key Up
                 case 2:                                                     // Key Press
 					Thread.Sleep(100);
-					keybd_event(keyCode, 0x2c, 0, 0); //90, 0x2c, z
+					keybd_event(keyCode, 0x1E, 0x20, 0); //90, 0x2c, z
 					Thread.Sleep(1000);
-					keybd_event(keyCode, 0x2c, 0x2, 0);
+					keybd_event(keyCode, 0x1E, 0x2, 0);
 					Thread.Sleep(100);
 					break;
 			}
@@ -216,7 +216,7 @@ public class MKey : BotElement
 	{
 		return keyCodeToString(KeyCode);
 	}
-
+	
 	public static string keyStateToString(int keyState)
 	{
 		return KeyStateName[keyState-1];
